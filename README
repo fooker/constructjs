@@ -2,7 +2,7 @@ General Information
 ===================
 
 construct.js is a JSON prototyping system for coffeescript/javascript. It allows
-to generate arbitary JSON structures from a templat.
+to generate arbitary JSON structures from a template.
 
 construct.js allows to intermix JSON structures with logical elemnts using
 functions. If the template is evaluated, all functions contained in the template
